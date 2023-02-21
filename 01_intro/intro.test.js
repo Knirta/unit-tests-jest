@@ -1,4 +1,3 @@
-const { expect } = require('@jest/globals');
 const {sum, nativeNull} = require('./intro');
 
 describe("Sum function", () => {

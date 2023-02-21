@@ -14,4 +14,6 @@ const sum = (a, b) => a + b;
 
 const nativeNull = () => null;
 
+//expect(sum(2, 3)).toBe(6);
+
 module.exports = {sum, nativeNull};
